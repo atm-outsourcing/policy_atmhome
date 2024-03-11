@@ -23,7 +23,7 @@ export function UserPolicy() {
 
           <Flex direction="column" gap={4}>
             <Text lowContrast>
-              A proteção dos seus dados é muito importante para a ATM EVS. Respeitamos a sua privacidade em nossa missão de proporcionar um serviço cada vez melhor!
+              A proteção dos seus dados é muito importante para a ATM Home. Respeitamos a sua privacidade em nossa missão de proporcionar um serviço cada vez melhor!
             </Text>
 
             <Text lowContrast>
