@@ -105,7 +105,7 @@ export function UserPolicy() {
               <Separator />
 
               <Text lowContrast>
-                A ATM EVS armazena as suas informações durante o período necessário para as finalidades apresentadas nos <span style={{ fontWeight: 'bold' }}>Termos e Condições de Uso da ATM EVS</span> e nesta Declaração de Privacidade, respeitando o período de retenção de dados determinado pela legislação aplicável.
+                A ATM Home armazena as suas informações durante o período necessário para as finalidades apresentadas nos <span style={{ fontWeight: 'bold' }}>Termos e Condições de Uso da ATM Home</span> e nesta Declaração de Privacidade, respeitando o período de retenção de dados determinado pela legislação aplicável.
               </Text>
             </Card>
           </Flex>
@@ -113,13 +113,13 @@ export function UserPolicy() {
           <Flex flex gap={8} css={{ '@media (max-width: 768px)': { flexDirection: 'column' } }}>
             <Card flex padding direction="column" align="center" gap={8}>
               <Text lowContrast>
-                Na contratação desses serviços, a ATM EVS sempre busca empresas que empregam <span style={{ fontWeight: 'bold' }}>alto nível de segurança no armazenamento de suas informações</span>, estabelecendo contratos <span style={{ fontWeight: 'bold' }}>que não violam as definições de privacidade</span> previstas nesta <span style={{ fontWeight: 'bold' }}>Declaração e na legislação aplicável.</span>
+                Na contratação desses serviços, a ATM Home sempre busca empresas que empregam <span style={{ fontWeight: 'bold' }}>alto nível de segurança no armazenamento de suas informações</span>, estabelecendo contratos <span style={{ fontWeight: 'bold' }}>que não violam as definições de privacidade</span> previstas nesta <span style={{ fontWeight: 'bold' }}>Declaração e na legislação aplicável.</span>
               </Text>
             </Card>
 
             <Card flex padding direction="column" align="center" gap={8}>
               <Text lowContrast>
-                Caso você solicite a exclusão de sua conta, os seus dados pessoais fornecidos ao ATM EVS durante a sua utilização dos nossos serviços serão excluídos, salvo para cumprir finalidades permitidas pela <span style={{ fontWeight: 'bold' }}>legislação de proteção de dados.</span>
+                Caso você solicite a exclusão de sua conta, os seus dados pessoais fornecidos ao ATM Home durante a sua utilização dos nossos serviços serão excluídos, salvo para cumprir finalidades permitidas pela <span style={{ fontWeight: 'bold' }}>legislação de proteção de dados.</span>
               </Text>
             </Card>
           </Flex>
