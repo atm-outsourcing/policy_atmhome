@@ -1,7 +1,7 @@
 import { Heading } from "@siakit/heading";
 import { Flex } from "@siakit/layout";
 
-import Logo from '../assets/logo_evs.png'
+import Logo from '../assets/logo.png'
 import { Text } from "@siakit/text";
 
 export function PrivacyPolicy(): JSX.Element {
